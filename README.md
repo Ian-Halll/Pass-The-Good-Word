@@ -4,7 +4,7 @@
 This repository contains a simple site-based random password generator, which allows you to set your desired password length and parameters.
 
 ## Installation
-The source code can be downloaded from the public repository at URL, to access the site it is hosted on, please visit URL 
+The source code can be downloaded from the public repository at https://github.com/Ian-Halll/Pass-The-Good-Word, to access the site it is hosted on, please visit URL 
 
 ## Usage
 Visit the page at URL and click the "Generate Password" button, the page will then display a series of prompts, each with a different parameter for your password,
